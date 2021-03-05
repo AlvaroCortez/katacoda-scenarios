@@ -22,6 +22,6 @@
     "hidefinish": true
   },
   "backend": {
-    "imageid": "kubernetes-cluster-running:1.19"
+    "imageid": "kubernetes-cluster-running:1.18"
   }
 }
