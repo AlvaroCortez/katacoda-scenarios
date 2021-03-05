@@ -1,0 +1,28 @@
+{
+  "title": "Istio course",
+  "description": "Istio cource",
+  "difficulty": "medium",
+  "time": "60 minutes",
+  "details": {
+    "steps": [{
+      "title": "Prepare",
+      "text": "step1.md"
+    }   
+    ],
+    "intro": {
+      "text": "intro.md"
+      "credits": ""
+    },
+    "assets": {
+      "host01": []
+    }
+  },
+  "environment": {
+    "uilayout": "editor-terminal",
+    "uisettings": "yaml"
+    "hidefinish": true
+  },
+  "backend": {
+    "imageid": "kubernetes-cluster-running:1.19"
+  }
+}
