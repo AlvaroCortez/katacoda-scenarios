@@ -8,3 +8,5 @@
 `kubectl describe ns default`{{execute T1}}
 `kubectl apply -f ./4-application-full-stack.yaml`{{execute T1}}
 `kubectl get po`{{execute T1}}
+https://[[HOST_SUBDOMAIN]]-30080-[[KATACODA_HOST]].environments.katacoda.com/
+https://[[HOST_SUBDOMAIN]]-31546-[[KATACODA_HOST]].environments.katacoda.com/

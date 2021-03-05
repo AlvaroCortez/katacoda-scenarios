@@ -19,7 +19,7 @@
   },
   "environment": {
     "uilayout": "editor-terminal",
-    "uisettings": "yaml"
+    "uisettings": "yaml",
     "hidefinish": true
   },
   "backend": {
